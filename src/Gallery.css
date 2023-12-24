@@ -1,0 +1,29 @@
+
+.Gallery-pg{
+    align-items: center;
+  color: white;
+  font-size: 2vw; /* Responsive font size */
+  text-align: center;
+  padding-top: 5%;
+  font-family: 'Arial', sans-serif;
+  background-image: url('./images/Gallery.jpg');
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  width: 100%;
+  height: 100vh;
+  margin-bottom: 0;
+  position: relative;
+}
+.HG{
+    margin-top: 5%;
+    font-family: 'Playfair Display SC', serif;
+    font-size: 3vw; /* Responsive font size */
+    text-transform: capitalize;
+    font-weight: bold;
+    text-shadow: 0px 2px 4px #000;
+    text-align: center;
+
+
+
+}
